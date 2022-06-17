@@ -1,7 +1,7 @@
 # Minecraft Server Mod List
 >Potřeba je samozřejmostí Forge (Jelikož se forge na 1.16.5 už nevyvijí, instalace nejnovější verze by to mělo udělat)
 
->Odkaz na pack módů je [zde](https://drive.google.com/file/d/1dThkuY2jo34Co59K9v6GPD1EX3fXAuf6/view?usp=sharing)
+>Odkaz na pack módů je v releases
 
 >Je možný, že se tento list bude měnit, ale s tím i odkaz na pack módu ;)
 
