@@ -1,11 +1,11 @@
 # Minecraft Server Mod List
->Mody, co jsou třeba na náš server (1.16.5):
-
 >Potřeba je samozřejmostí Forge (Jelikož se forge na 1.16.5 už nevyvijí, instalace nejnovější verze by to mělo udělat)
 
 >Odkaz na pack módů je [zde](https://drive.google.com/file/d/1dThkuY2jo34Co59K9v6GPD1EX3fXAuf6/view?usp=sharing)
 
 >Je možný, že se tento list bude měnit, ale s tím i odkaz na pack módu ;)
+
+>Mody, co jsou třeba na náš server (1.16.5):
 1. Atribute fix (lepší kompatibilita) - 10.1.3
 2. Biomes o plenty - 13.1.0.477
 3. Blood magic - 3.1.7-27
