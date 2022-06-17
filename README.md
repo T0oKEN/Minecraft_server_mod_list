@@ -5,10 +5,10 @@
 
 > ![hezkej obrázek](https://i.imgur.com/a6iPT6W.png)
 
->Je možný, že se tento list bude měnit, ale s tím i odkaz na pack módu ;)
+>Je možný, že se tento list bude měnit, ale s tím i vyjde nový releases ;)
 
 >Mody, co jsou třeba na náš server (1.16.5):
-1. Atribute fix (lepší kompatibilita) - 10.1.3
+1. Atribute fix - 10.1.3
 2. Biomes o plenty - 13.1.0.477
 3. Blood magic - 3.1.7-27
 4. Clumps - 6.0.0.27
