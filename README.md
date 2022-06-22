@@ -1,5 +1,5 @@
 # Minecraft Server Mod List
->Potřeba je samozřejmostí Forge (Jelikož se forge na 1.16.5 už nevyvijí, instalace nejnovější verze by to mělo udělat)
+>Potřeba je samozřejmostí Forge (Jelikož se forge na 1.12.2 už nevyvijí, instalace nejnovější verze by to mělo udělat)
 
 >Odkaz na pack módů je v Releases:
 
@@ -7,30 +7,36 @@
 
 >Je možný, že se tento list bude měnit, ale s tím i vyjde nový releases ;)
 
->Mody, co jsou třeba na náš server (1.16.5):
-1. Atribute fix - 10.1.3
-2. Biomes o plenty - 13.1.0.477
-3. Blood magic - 3.1.7-27
-4. Clumps - 6.0.0.27
-5. Falling tree - 2.11.5
-6. Ferrite core - 2.1.0
-7. Golden Age Combat - v1.5.2
-8. Hwyla - 1.10.11-B78
-9. Iron chests - 11.2.21
-10. Just Enough Items - 7.7.1.152
-11. Journeymap - 5.7.3
-12. Mekanism 10.1.2.457
-	  - Mekanism Additions - 10.1.2.457
-	  - Mekanism Generators - 10.1.2.457
-	  - Mekanism Tools - 10.1.2.457
-13. Mowzie's Mobs - mowziesmobs-1.5.19
-14. ProjectE - 1.0.2
-15. Tinkers Construct - 3.3.4.335
-16. Twilight forest - 4.0.546
-17. Valhelsia Structures  - 0.1.6
-18. When Dungeons Arise - 2.1.47
+>Mody, co jsou třeba na náš server (1.12.2):
+1. Backpacks - 3.0.2
+2. Biomes o plenty - 7.0.1.2445
+3. Blood magic - 2.4.3-105
+4. Castle Dungeons - 1.3
+5. Clumps - 3.1.2
+6. Ender Storage - 2.4.4.132
+7. Falling tree - 2.4.0
+8. Galacticraft Planets - 4.0.2.280
+9. Golden Age Combat - v1.2.3
+10. Hwyla - 1.8.26-B41
+11. Iron chests - 7.0.72.847
+12. Just Enough Items - 4.16.1.301
+13. Journeymap - 5.7.1
+14. Mekanism - 9.8.3.390
+	  - Mekanism Generators - 9.8.3.390
+	  - Mekanism Tools - 1.12.2-9.8.3.390
+15. Mo' Creatures - 12.0.5
+16. More Planets - Galacticraft Add-on - 2.2.2-GC280
+17. Mowzie's Mobs - 1.5.8
+18. Tinkers Construct - 2.13.0.183
+19. Twilight forest - 3.11.1021
 
 # Rozšiřující knihovny pro módy
-1. CodeChicken Lib - 4.0.3.434-universal
-2. Mantle - 1.6.157
-3. Valhelsia Core - 16.0.15
+1. CodeChicken Lib - 3.2.3.358
+2. Custom Mob Spawner - 3.11.5
+3. Galacticraft Core - 4.0.2.280
+4. Guide API - 2.1.8-63
+5. llibrary - 1.7.20
+6. Mantle - 1.3.3.55
+7. MicdoodleCore - 4.0.2.280
+8. MixinBooter - 4.2
+9. SteveKunG's Lib - 1.2.0
